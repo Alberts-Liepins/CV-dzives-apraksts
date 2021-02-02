@@ -35,6 +35,9 @@ Mans vārds ir Alberts Liepiņš. Es dzimu un vēl jo projām dzīvoju latvijā.
 - [ ] Iegūt vidējo un profesionālo izglītību
 - [ ] Iegūt darbavietu kādā kompānijā kā programmētājs
 
+### Citāts
+> Klusē, vai ļauj saviem vārdiem būt vērtīgākiem par klusumu.
+
 ### Mīļākais emoji
 :parking:
 
