@@ -4,8 +4,10 @@
 
 Vārds, uzvārds
 :**Alberts Liepiņš**
+
 Dzimis
 : *03.09.2004*
+
 Dzīvoju
 :Rīgā, Latvijā
 
