@@ -80,4 +80,4 @@ print("Rezultāts:", rezultats)
 ---
 
 Šeit ir redzams vilciens ar cilvēku demoniskā kostīmā nesaprotamu iemeslu dēļ.
-![Vilciens](Images\vilciens.jpg)
+![Vilciens](vilciens.jpg)
