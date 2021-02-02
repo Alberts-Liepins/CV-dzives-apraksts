@@ -77,6 +77,7 @@ print("Rezultāts:", rezultats)
 Šeit ir redzams DogeCoin market vērtība pret laiku.
 ![DogeCoin market vērtība pret laiku](https://cdn.discordapp.com/attachments/425684127832997898/805143674723500094/unknown.png)
 
+---
 
 Šeit ir redzams vilciens ar cilvēku demoniskā kostīmā nesaprotamu iemeslu dēļ.
-![Vilciens](CV-dzives-apraksts\Images\vilciens.jpg)
+![Vilciens](Images\vilciens.jpg)
